@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "about": "Описание",
+    "technical": "Технические характеристики",
+    "guide": "Гайд звукорежиссёрам",
+    "links": "Сcылки"
+  },
+  "tagline": "Your Sonic Sanctuary for Stories.",
+  "download": {
+    "linkText": "Download \"Версия\""
+  },
+  "blocks": {
+    "quick": { "title": "Скорость", "text": "Быстрый запуск и лёгкий интерфейс."},
+    "minimalizm": { "title": "Минимализм", "text": "Только нужные элементы управления."},
+    "focus": { "title": "Фокус", "text": "Подходит для референсов и внимательного прослушивания."}
+  },
+  "sections": {
+    "about": { "title": "Описание" },
+    "technical": {},
+    "guide": { "ideas": "Предложить правки, идеи, или сделать замечание:" },
+    "download": { "title": "Скачать" },
+    "links": { "title": "Ссылки" }
+  },
+  "links": {
+    "github": "GitHub",
+    "issues": "Issues",
+    "email": "Email"
+  }
+}

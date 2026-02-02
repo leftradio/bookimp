@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "about": "About",
+    "technical": "Technical specs",
+    "guide": "Audio engineer guide",
+    "links": "Links"
+  },
+  "tagline": "Your Sonic Sanctuary for Stories.",
+  "download": {
+    "linkText": "Download \"Version\""
+  },
+  "blocks": {
+    "quick": { "title": "Speed", "text": "Fast startup and a lightweight interface." },
+    "minimalizm": { "title": "Minimalism", "text": "Only the controls you actually need." },
+    "focus": { "title": "Focus", "text": "Great for referencing and attentive listening." }
+  },
+  "sections": {
+    "about": { "title": "About" },
+    "technical": {},
+    "guide": { "ideas": "Suggest edits, ideas, or leave a note:" },
+    "download": { "title": "Download" },
+    "links": { "title": "Links" }
+  },
+  "links": {
+    "github": "GitHub",
+    "issues": "Issues",
+    "email": "Email"
+  }
+}
