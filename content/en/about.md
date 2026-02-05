@@ -7,12 +7,11 @@
 <br>
 
 ## Key features
----
+
 - Platform: Windows x64
 - Core features: play/pause, seeking, navigation, bookmarks
 - Separate volume control: narrator voice / music background
-- VST2 (custom host):
-  - real-time correction while listening: EQ, de-reverb for problematic recordings, other processing chains, maximum audio quality when using high-quality plugins
+- VST2 (custom host): real-time correction while listening: EQ, de-reverb for problematic recordings, other processing chains, maximum audio quality when using high-quality plugins
 - Styles: multiple styles supported + built-in style editor
 
 <br>

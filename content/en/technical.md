@@ -1,5 +1,5 @@
 ## Technical specs
----
+
 - Platform: Windows x64
 
 - Audio formats (decoding): via `soundfile` / `libsndfile`

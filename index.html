@@ -7,7 +7,6 @@
         <meta name="description" content="Bookimp — минималистичный десктоп-плеер."/>
         <link rel="icon" href="assets/favicon.png" type="image/png" sizes="32x32">
         <link href="css/theme.css" rel="stylesheet" type="text/css">
-        <link href="css/theme.css" rel="stylesheet" type="text/css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -21,9 +20,6 @@
                 <button type="button" class="lang-btn" data-lang="ru">RU</button>
             </div>
             <div class="container hero-inner">
-
-
-
                 <div class="hero-left">
                     <div class="brand">
                         <img class="brand-logo" src="assets/logo.png" alt="" width="400" height="77"/>
@@ -33,12 +29,12 @@
                         <a class="download-link" href="releases/bookimp_0.8.2_setup.exe"> <span class="win-icon" aria-hidden="true"></span> <span>Download Bookimp v0.8.2 (Build: 26-02-10)</span> </a>
                     </div>
                 </div>
+                <!-- Screenshot placeholder -->
                 <div class="hero-right">
-                    <!-- Screenshot placeholder -->
-                    <div class="hero-shot-slider" aria-label="Bookimp screenshots">
-                        <img class="hero-shot-img is-visible" src="assets/screenshot-1.png" alt="Bookimp screenshot 1">
-                        <img class="hero-shot-img" src="assets/screenshot-2.png" alt="Bookimp screenshot 2">
-                    </div>
+                  <div id="hero-slider" class="hero-shot-slider" aria-label="Bookimp screenshots">
+                    <img class="hero-shot-img is-visible" src="assets/screenshot-1.png" alt="Bookimp screenshot 1">
+                    <img class="hero-shot-img" src="assets/screenshot-2.png" alt="Bookimp screenshot 2">
+                  </div>
                 </div>
             </div>
         </header>
@@ -61,38 +57,11 @@
                     <!-- <h2 data-i18n="sections.about.title"></h2> -->
                     <!-- Screenshot placeholder -->
                     <div class="about-shot-right">
+                        <div id="mobile-slider-anchor"></div>
                         <img class="about-shot" src="assets/about-screenshot-1.png" alt="">
                     </div>
                     <div class="about">
                         <div id="about-md" class="md"></div>
-                    </div>
-                    <div class="cards">
-                        <div class="card">
-                            <h3 data-i18n="blocks.quick.title"></h3>
-                            <p class="muted" data-i18n="blocks.quick.text"></p>
-                        </div>
-                        <div class="card">
-                            <h3 data-i18n="blocks.minimalizm.title"></h3>
-                            <p class="muted" data-i18n="blocks.minimalizm.text"></p>
-                        </div>
-                        <div class="card">
-                            <h3 data-i18n="blocks.focus.title"></h3>
-                            <p class="muted" data-i18n="blocks.focus.text"></p>
-                        </div>
-                    </div>
-                    <div class="shots">
-                        <figure class="shot">
-                            <img src="assets/screenshot-1.png" alt="Main view screenshot"/>
-                            <figcaption data-i18n="blocks.quick.title"></figcaption>
-                        </figure>
-                        <figure class="shot">
-                            <img src="assets/screenshot-2.png" alt="Playlist screenshot"/>
-                            <figcaption data-i18n="blocks.minimalizm.title"></figcaption>
-                        </figure>
-                        <figure class="shot">
-                            <img src="assets/screenshot-3.png" alt="Settings screenshot"/>
-                            <figcaption data-i18n="blocks.focus.title"></figcaption>
-                        </figure>
                     </div>
                 </section>
 
@@ -115,23 +84,24 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="guide-ideas">
-                        <h2 data-i18n="sections.guide.ideas"></h2>
-                        <ul class="links">
-                            <li>
-                                <a class="link" href="mailto:vladislav@inorbit.com">Issues</a>
-                            </li>
-                        </ul>
-                    </div>
                 </section>
-
-
                 <!-- Links (optional but useful) -->
                 <section id="links" class="section">
+                    <div class="guide-ideas">
+                        <h2 data-i18n="sections.guide.ideas"></h2>
+                            <ul class="links">
+                                <li>
+                                    <a class="link" href="mailto:vladislav@inorbit.com">Send mail</a>
+                                </li>
+                            </ul>
+                    </div>
+                    <div class="guide-ideas">
+                        <h2>Links:</h2>
+                    </div>
                     <div class="links-bottom">
                         <ul class="links">
                             <li>
-                                <a class="link" href="https://svidbook.ru">СВиД - Сказки для Взрослых и Детей</a>
+                                <a class="link" href="https://svidbook.ru">Сайт проекта СВиД</a>
                             </li>
                             <li>
                                 <a class="link" href="https://github.com/LeftRadio">GitHub</a>
@@ -153,5 +123,6 @@
             document.getElementById("y").textContent = new Date().getFullYear();
         </script>
         <script src="js/rotator.js"></script>
+        <script src="js/replace.js"></script>
     </body>
 </html>
