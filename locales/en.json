@@ -1,6 +1,7 @@
 {
   "menu": {
     "about": "About",
+    "whatsnew": "What's new",
     "technical": "Technical specs",
     "guide": "Audio engineer guide",
     "links": "Links"
@@ -10,16 +11,36 @@
     "linkText": "Download \"Version\""
   },
   "blocks": {
-    "quick": { "title": "Speed", "text": "Fast startup and a lightweight interface." },
-    "minimalizm": { "title": "Minimalism", "text": "Only the controls you actually need." },
-    "focus": { "title": "Focus", "text": "Great for referencing and attentive listening." }
+    "quick": {
+      "title": "Speed",
+      "text": "Fast startup and a lightweight interface."
+    },
+    "minimalizm": {
+      "title": "Minimalism",
+      "text": "Only the controls you actually need."
+    },
+    "focus": {
+      "title": "Focus",
+      "text": "Great for referencing and attentive listening."
+    }
   },
   "sections": {
-    "about": { "title": "About" },
+    "about": {
+      "title": "About"
+    },
+    "whatsnew": {
+      "title": "What's new"
+    },
     "technical": {},
-    "guide": { "ideas": "Suggest edits, ideas, or leave a note:" },
-    "download": { "title": "Download" },
-    "links": { "title": "Links" }
+    "guide": {
+      "ideas": "Suggest edits, ideas, or leave a note:"
+    },
+    "download": {
+      "title": "Download"
+    },
+    "links": {
+      "title": "Links"
+    }
   },
   "links": {
     "github": "GitHub",

@@ -1,9 +1,4 @@
 /* js/i18n.js
-   - Loads short UI strings from: /locales/{lang}.json
-   - Loads long-form text from Markdown: /content/{lang}/about.md and /content/{lang}/guide.md
-   - Applies JSON strings to elements with [data-i18n="..."]
-   - Injects Markdown HTML into #about-md and #guide-md (requires marked; falls back to plain text)
-   - Supports RU/EN toggle buttons: .lang-btn[data-lang="en|ru"] with active state .is-active
 */
 
 (function () {
@@ -81,6 +76,7 @@
 
     // texts Markdown
     await loadMarkdown(lang, "about", "about-md");
+    await loadMarkdown(lang, "whatsnew", "whatsnew-md");
     await loadMarkdown(lang, "technical", "technical-md");
     await loadMarkdown(lang, "guide", "guide-md");
 

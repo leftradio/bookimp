@@ -1,5 +1,6 @@
 :root {
     --bg: #f6f8fb;
+    --hero-bg: #202029;
     --surface: #ffffff;
     --text: #0f172a;
     --logo-text: #ffd791;
@@ -48,7 +49,7 @@ img {
     min-height: 240px;
     height: auto;
     padding: 24px 0;
-    background: linear-gradient(90deg, #855001, #ffffff);
+    background: var(--hero-bg);
     border-bottom: 1px solid var(--line);
 }
 
@@ -177,9 +178,10 @@ img {
 
 .lang-switch {
     display: inline-flex;
-    border: 1px solid var(--line);
+    border: none;
+    background: transparent;
     padding: 2px;
-    background: #fff;
+    color: var(--text);
 }
 
 .lang-btn {
@@ -459,7 +461,16 @@ img {
     color: var(--muted);
 }
 
-
+/* whatsnew */
+.whatsnew {
+    padding: 18px;
+    margin-top: 0px;
+    margin-left: 70px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    line-height: 1.25;
+    color: var(--muted);
+}
 
 /* Callout */
 .callout {
@@ -605,6 +616,7 @@ img {
     .hero-shot,
     .hero-shot-slider,
     .about,
+    .whatsnew,
     .guide,
     .technical,
     .guide-ideas,
