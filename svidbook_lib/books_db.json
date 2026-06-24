@@ -18962,65 +18962,7 @@
       "size_estimated_chapters": 0,
       "size_known_bytes": 24582686,
       "size_known_mb": 23.44
-    },
-    {
-      "id": "plamenev-kniga-i",
-      "title": "Пламенев. Книга I",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Я был нелюбимым приемным сыном в деревенской семье. И даже не подозревал, кем являюсь на самом деле.\r\nВсе изменилось в одну ночь, когда с неба, объятый пламенем, упал человек.\r\nСудьба или случай свели нас - не знаю, но именно с этой встречи начался мой путь от презираемого приемыша вперед и вверх, к силе, власти и звездам.\r\nНо враги уже близко. И первый урок будет простым: в мире культиваторов выживает только сильнейший.",
-      "cover": "https://svidbook.ru/storage/book_cover/1770919216_b11956aadfeb492e90cc9c6cae4c6270.jpg",
-      "reader": "Александр Авгур",
-      "duration": "08:14:20",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-i",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/f34e0496-2ed6-433c-8530-24c05a42e02a/1770919672_p1_001.mp3"
-        }
-      ],
-      "size_bytes": 59625782,
-      "size_mb": 56.86,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 59625782,
-      "size_known_mb": 56.86
-    },
-    {
-      "id": "plamenev-kniga-ii",
-      "title": "Пламенев. Книга II",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Простое и понятное, хотя и безрадостное, прошлое осталось позади. Деревня, где вырос, далеко не лучшая, но все-таки семья, человек, который стал учителем и другом.\r\nВсе это у меня безжалостно отняли.\r\nИ хотя мне чудом удалось избежать преследования, жизнь мне придется начинать с чистого листа. Что же, возможно, это и не плохо.\r\nВпереди - город, впереди - поиски моих корней, бои без правил, городские банды и неизбежный рост силы. Потому что в жестоком мире подворотен и переулков выжить может только сильнейший.",
-      "cover": "https://svidbook.ru/storage/book_cover/1772650370_photo_2026_03_04_23_38_04.jpg",
-      "reader": "Александр Авгур",
-      "duration": "07:41:07",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-ii",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/1d6ed930-0538-4224-b6b5-06c0f1dcf647/1772650749_p2_001.mp3"
-        }
-      ],
-      "size_bytes": 47275088,
-      "size_mb": 45.09,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 47275088,
-      "size_known_mb": 45.09
-    },
+    },    
     {
       "id": "pogonya",
       "title": "Погоня",
@@ -34576,192 +34518,106 @@
       "size_known_mb": 1528.43
     },
     {
-      "id": "plamenev-kniga-iii",
-      "title": null,
-      "author": null,
-      "genres": [],
-      "description": null,
-      "cover": null,
-      "reader": null,
-      "duration": null,
-      "annotation_author": null,
-      "cover_artist": null,
-      "sound": null,
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-iii",
+      "id": "plamenev-kniga-i",
+      "title": "Пламенев. Книга I",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я был нелюбимым приемным сыном в деревенской семье. И даже не подозревал, кем являюсь на самом деле.\r\nВсе изменилось в одну ночь, когда с неба, объятый пламенем, упал человек.\r\nСудьба или случай свели нас - не знаю, но именно с этой встречи начался мой путь от презираемого приемыша вперед и вверх, к силе, власти и звездам.\r\nНо враги уже близко. И первый урок будет простым: в мире культиваторов выживает только сильнейший.",
+      "cover": "https://svidbook.ru/storage/book_cover/1770919216_b11956aadfeb492e90cc9c6cae4c6270.jpg",
+      "reader": "Александр Авгур",
+      "duration": "08:14:20",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-i",
       "chapters": [
         {
-          "title": "Часть 1_Глава 2",
-          "url": "https://svidbook.ru/storage/audio/9ea35899-4ec7-461d-a3f9-ab5cdf0975ce/1779014848_2_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 3",
-          "url": "https://svidbook.ru/storage/audio/97c62204-56ee-4434-8ec3-ec837f8373c8/1779014857_3_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 4",
-          "url": "https://svidbook.ru/storage/audio/ebcefdce-2623-4557-a8b2-ed7f21d1199b/1779014845_4_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 5",
-          "url": "https://svidbook.ru/storage/audio/a3efe164-bb4f-42da-aecd-49e52f0d943b/1779014855_5_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 6",
-          "url": "https://svidbook.ru/storage/audio/2f7297bf-b15f-4ac2-b03d-113dc747dba9/1779014859_6_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 7",
-          "url": "https://svidbook.ru/storage/audio/e3a97034-8ac3-49a4-93c2-c29002431fca/1779014870_7_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 8",
-          "url": "https://svidbook.ru/storage/audio/9af51ecb-467d-4fd9-8b1b-a91740aaab75/1779014852_8_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 9",
-          "url": "https://svidbook.ru/storage/audio/4db0863c-b996-4ec8-bf70-a7e0395f4b8d/1779014839_9_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 10",
-          "url": "https://svidbook.ru/storage/audio/4eebcb87-101b-4a70-b215-891957b4ea83/1779014863_10_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 11",
-          "url": "https://svidbook.ru/storage/audio/159fbd5a-cc10-4004-9519-49e26445cb58/1779014867_11_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 12",
-          "url": "https://svidbook.ru/storage/audio/3c95f48b-4b79-433c-b434-762aee65bcd3/1779014838_12_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 13",
-          "url": "https://svidbook.ru/storage/audio/94db2a38-a7a6-4c36-b560-4190ec11a03c/1779014872_13_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 14",
-          "url": "https://svidbook.ru/storage/audio/9e18bd28-1990-4b8d-84a5-8e2a8cf97ad8/1779014867_14_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 15",
-          "url": "https://svidbook.ru/storage/audio/c5798995-0ab4-4ab1-93df-deae748651b0/1779014868_15_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 16",
-          "url": "https://svidbook.ru/storage/audio/cb1b3391-bb71-47cd-b947-f7b6f6094bdf/1779014874_16_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 17",
-          "url": "https://svidbook.ru/storage/audio/cd861379-bbbc-4f5f-8179-44d04445a196/1779014873_17_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 18",
-          "url": "https://svidbook.ru/storage/audio/cf0b0661-9445-4fc2-a517-913f8d9ba80e/1779014849_18_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 19",
-          "url": "https://svidbook.ru/storage/audio/2abbc463-98a1-479f-a90d-d52dcff29620/1779014856_19_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 20",
-          "url": "https://svidbook.ru/storage/audio/ad9e3b97-9e84-45ef-abb3-f0b24886eda1/1779014844_20_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 1_Глава 21",
-          "url": "https://svidbook.ru/storage/audio/ca5d5a2f-451c-4c39-804a-860050a65b99/1779014856_21_petlya_taygi_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 1",
-          "url": "https://svidbook.ru/storage/audio/623a78b4-2a1b-4376-8cc6-d96b2c17c1ef/1779015856_1_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 2",
-          "url": "https://svidbook.ru/storage/audio/418c2c73-7616-40ae-8a6c-f25b84e624fe/1779015944_2_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 3",
-          "url": "https://svidbook.ru/storage/audio/591f29c6-450d-482a-bff4-092f43e874d1/1779017154_3_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 4",
-          "url": "https://svidbook.ru/storage/audio/5bae43d5-04fa-4adb-a7a4-6e8c5ddbe7ff/1779017231_4_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 5",
-          "url": "https://svidbook.ru/storage/audio/2980814b-800f-4e48-8ab6-470a5f523a12/1779017418_5_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 6",
-          "url": "https://svidbook.ru/storage/audio/d77909ab-fb9f-49db-ac82-b830e3223460/1779017476_6_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 7",
-          "url": "https://svidbook.ru/storage/audio/fd7f75f6-9814-44ed-bed5-febd8b651a3b/1779017587_7_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 8",
-          "url": "https://svidbook.ru/storage/audio/a4669f5c-bb19-4be8-b262-163c389709f6/1779017629_8_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 9",
-          "url": "https://svidbook.ru/storage/audio/a7d1b44c-ca1c-4720-b908-707757ce94c4/1779017688_9_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 10",
-          "url": "https://svidbook.ru/storage/audio/2e76bab6-a044-4a8a-b4af-c3eda107bf79/1779017724_10_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 11",
-          "url": "https://svidbook.ru/storage/audio/f7d733ed-fc0d-4401-ac42-d7300364d4a7/1779017759_11_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 12",
-          "url": "https://svidbook.ru/storage/audio/c0dce06d-af34-4161-bd7e-fdb8286abc4d/1779017808_12_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 13",
-          "url": "https://svidbook.ru/storage/audio/13fe7f35-365d-4f57-b777-fad4924185c3/1779017843_13_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 14",
-          "url": "https://svidbook.ru/storage/audio/8ee2b5cf-b7ca-49a2-8c7b-eff2e0230e32/1779017894_14_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 15",
-          "url": "https://svidbook.ru/storage/audio/5bde5761-1b5c-46fb-8b66-e43cc4022439/1779017943_15_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 16",
-          "url": "https://svidbook.ru/storage/audio/3b5bcb33-78b8-408c-8b96-b040c3b61956/1779017987_16_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 17",
-          "url": "https://svidbook.ru/storage/audio/11444008-baa9-4b53-af78-77d61640c1cb/1779018031_17_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
-        },
-        {
-          "title": "Часть 2_Глава 18",
-          "url": "https://svidbook.ru/storage/audio/b2e374dc-f8cd-4aea-aec6-abe96b5f9c12/1779018103_18_glava_petlya_taygi_2_chast_boris_zhidenkov.mp3"
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/f34e0496-2ed6-433c-8530-24c05a42e02a/1770919672_p1_001.mp3"
         }
       ],
-      "size_bytes": 1582440864,
-      "size_mb": 1509.13,
+      "size_bytes": 59625782,
+      "size_mb": 56.86,
       "size_status": "ok",
       "size_unknown_chapters": 0,
       "size_estimated_chapters": 0,
-      "size_known_bytes": 1582440864,
-      "size_known_mb": 1509.13
+      "size_known_bytes": 59625782,
+      "size_known_mb": 56.86
+    },
+    {
+      "id": "plamenev-kniga-ii",
+      "title": "Пламенев. Книга II",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Простое и понятное, хотя и безрадостное, прошлое осталось позади. Деревня, где вырос, далеко не лучшая, но все-таки семья, человек, который стал учителем и другом.\r\nВсе это у меня безжалостно отняли.\r\nИ хотя мне чудом удалось избежать преследования, жизнь мне придется начинать с чистого листа. Что же, возможно, это и не плохо.\r\nВпереди - город, впереди - поиски моих корней, бои без правил, городские банды и неизбежный рост силы. Потому что в жестоком мире подворотен и переулков выжить может только сильнейший.",
+      "cover": "https://svidbook.ru/storage/book_cover/1772650370_photo_2026_03_04_23_38_04.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:41:07",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-ii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/1d6ed930-0538-4224-b6b5-06c0f1dcf647/1772650749_p2_001.mp3"
+        }
+      ],
+      "size_bytes": 47275088,
+      "size_mb": 45.09,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 47275088,
+      "size_known_mb": 45.09
+    },
+    {
+      "id": "plamenev-kniga-iii",
+      "title": "Пламенев. Книга III",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Человек, который должен был рассказать мне о моей семье и моем наследии, мертв. От него осталось только письмо, отправляющее меня за тысячи километров.\r\nЧтобы добраться, наконец, до правды, одного желания недостаточно.\r\nМне придется сыграть сына криминального авторитета, вступить в борьбу за власть внутри банды и начать путь к формированию собственного клана. И я приму все испытания, что приготовила мне судьба",
+      "cover": "https://svidbook.ru/storage/book_cover/1774536673_f687877ea4094049950cdb4dd41095ba.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:39:43",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-iii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/48c0fab1-95da-4425-897b-e48dabba6d54/1774537423_p3_001.mp3"
+        }
+      ],      
+      "size_bytes": 47275088,
+      "size_mb": 45.09,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 47275088,
+      "size_known_mb": 45.09
     },
     {
       "id": "plamenev-kniga-iv",
-      "title": null,
-      "author": null,
-      "genres": [],
-      "description": null,
-      "cover": "https://svidbook.ru/storage/book_cover/1779014890_petlya_taygi.jpg",
-      "reader": null,
-      "duration": null,
-      "annotation_author": null,
-      "cover_artist": null,
-      "sound": null,
+      "title": "Пламенев. Книга IV",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Объявленный розыск снят силами эксцентричного отпрыска вражеского рода, но моя история в банде Червонной Руки на этом только начинается.\r\nДо вступительных экзаменов остается меньше полугода, а я еще не сделал ничего из того, что запланировал. Так что впереди меня ждут новые вызовы, жестокие битвы и даже, возможно, любовь (я, что, не человек, что ли?).\r\nВ любом случае просто не будет. Но это и неплохо, ведь только в сложностях можно стать по-настоящему сильным.",
+      "cover": "https://svidbook.ru/storage/book_cover/1777966530_photo_2026_04_17_12_13_00.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:48:24",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
       "page_url": "https://svidbook.ru/book/plamenev-kniga-iv",
       "chapters": [
         {
